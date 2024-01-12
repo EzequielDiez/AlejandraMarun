@@ -13,7 +13,7 @@ $field_message = $_POST['message'];
 
 
 
-$mail_to = 'ale@alejandramarun.com';
+$mail_to = 'marunmale@gmail.com';
 $subject = 'SITIO WEB ALEJANDRA MARUN: '.$field_name;
 
 $body_message = 'NOMBRE: '.$field_name."\n";

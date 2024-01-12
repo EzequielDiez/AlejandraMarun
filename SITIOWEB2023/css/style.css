@@ -4493,6 +4493,8 @@ ul.nav li.dropdown:hover > ul.dropdown-menu { display: block; }
 
 .social-icons.social-icons-colored .social-instagram a, .social-icons.social-icons-colored-hover .social-instagram a:hover { background-color: #e53d00; }
 
+.social-icons.social-icons-colored .social-spotify a, .social-icons.social-icons-colored-hover .social-spotify a:hover { background-color: #1ED760; }
+
 .social-icons.social-icons-colored .social-gplus a, .social-icons.social-icons-colored-hover .social-gplus a:hover { background-color: #d68400; }
 
 .social-icons.social-icons-colored .social-stumbleupon a, .social-icons.social-icons-colored-hover .social-stumbleupon a:hover { background-color: #ff5c30; }
