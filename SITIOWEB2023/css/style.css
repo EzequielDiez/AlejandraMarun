@@ -6784,3 +6784,19 @@ video {
   position: relative !important;  /* Añade esta línea si no está ya presente */
   /* Otras propiedades y estilos según sea necesario */
 }
+
+@media (max-width: 767.98px) {
+  .inspiro-slider .slide .slide-captions h1,
+  .inspiro-slider .slide .slide-captions h2 {
+    font-size: 30px;
+    line-height: 30px;
+  }}
+
+
+@media (max-width: 449.98px) {
+  .inspiro-slider .slide .slide-captions h1,
+  .inspiro-slider .slide .slide-captions h2 {
+    font-size: 25px;
+    line-height: 25px;
+  }
+}
